@@ -1,0 +1,7 @@
+[
+  { "id": 0, "producto": "cheddar", "precio": 1200, "img": "./images/hamburguesas-cheddar.png"},
+  { "id": 1, "producto": "clasica", "precio": 1300, "img": "./images/hamburguesas-clasica.png" },
+  { "id": 2, "producto": "simple", "precio": 1000, "img": "./images/hamburguesas-simple.png" },
+  { "id": 3, "producto": "doble", "precio": 1500, "img": "./images/hamburguesas-doble.png" },
+  { "id": 4, "producto": "mega", "precio": 2000, "img": "./images/hamburguesas-mega.png" }
+]

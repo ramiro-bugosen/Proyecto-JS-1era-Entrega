@@ -1,0 +1,7 @@
+[
+  { "id": 0, "producto": "cocacola", "precio": 350, "img": "./images/bebidas-cocacola.png" },
+  { "id": 1, "producto": "fanta", "precio": 350, "img": "./images/bebidas-fanta.png" },
+  { "id": 2, "producto": "sprite", "precio": 350, "img": "./images/bebidas-sprite.png" },
+  { "id": 3, "producto": "agua", "precio": 300, "img": "./images/bebidas-agua.png"},
+  { "id": 4, "producto": "aguasaborizada", "precio": 350, "img": "./images/bebidas-aguasaborizada.png" }
+]

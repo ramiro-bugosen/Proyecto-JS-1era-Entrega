@@ -5,22 +5,31 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="@sweetalert2/theme-bootstrap-4/bootstrap-4.css">
     <title>Proyecto Javascript</title>
     
 </head>
-<body>
-    <h2>Bebidas</h2>
+<body id="contenido">
+    <h2></h2>
     <div id="bebidas"></div>
 
-     <h2>Hamburguesas</h2>   
+     <h2></h2>   
     <div id="hamburguesas"></div>
 
-    <h2>Guarniciones</h2>
+    <h2></h2>
     <div id="guarniciones"></div>
 
-     <H3>Total:</H3>
+     <H3></H3>
      <p id="total"></p>
-    <button id="recargar">Comprar</button>
+     <img id="realizarPedido" src="./images/imagen-carrito.png" alt="">
+    <div id="cartelInicio">
+        <div id="inicio">
+            <h2>¡Bienvenido a nuestro menu de Delivery!</h2>
+            <h4>Para comenzar tu pedido, has click aquí abajo</h4>    
+            <button id="iniciarPedido">Comenzar Pedido</button>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="./main.js"></script>
 </body>
 </html>

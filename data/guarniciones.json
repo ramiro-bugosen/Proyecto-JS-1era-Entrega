@@ -1,0 +1,9 @@
+[
+    { "id": 0, "producto": "papas", "precio": 800, "img": "./images/guarniciones-papasfritas.png" },
+    { "id": 1, "producto": "batatas", "precio": 700, "img": "./images/guarniciones-batatasfritas.png" },
+    { "id": 2, "producto": "nuggets", "precio": 900, "img": "./images/guarniciones-nuggets.png" }
+]
+
+
+  
+  
